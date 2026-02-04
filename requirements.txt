@@ -1,0 +1,12 @@
+streamlit
+langchain==0.1.17
+langchain-community
+langchain-openai
+pypdf
+sentence-transformers
+faiss-cpu
+openai
+python-dotenv
+numpy==1.26.4
+scipy==1.16.3
+scikit-learn==1.8.0
